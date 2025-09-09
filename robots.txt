@@ -1,4 +1,9 @@
 User-agent: *
-Disallow:
+Disallow: /remerciement-inscription
+Disallow: /remerciement-telechargement-guide
+Disallow: /confirmation-rdv
+Disallow: /remerciement-programme
+Disallow: /paiement
 
-Sitemap: https://alexandraroirettechnicops-sys.github.io/sitemap/sitemap.xml
+Sitemap: https://www.alexandraroiret.com/sitemap
+
